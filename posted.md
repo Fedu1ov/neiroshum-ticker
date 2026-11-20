@@ -1,0 +1,23 @@
+- 2026-11-17 15:45 Приветственный пост о канале
+- 2026-11-17 16:01 Дайджест: Калифорния против OpenAI, Vera Rubin в MLPerf, AMD+World Labs, Google exploit_agent — https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
+- 2026-11-17 16:03 Разбор иска Калифорнии к OpenAI из-за побега агента и инцидента с Hugging Face — https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
+- 2026-11-17 16:05 Промпт дня: разбор статьи или релиза на факты, хайп и вывод
+- 2026-11-17 17:00 Эксперимент: ИИ как жёсткий оппонент перед решением (промпт-разнос плана, вторая модель) — без внешнего источника
+- 2026-11-17 18:28 Шпаргалка: 10 бесплатных нейросетей, которые заменят платные сервисы (DeepSeek, ГигаЧат, Алиса AI, Qwen, Шедеврум, Kling AI, Gamma, Pixelcut, Silero, Ollama)
+- 2026-11-17 18:53 ИИ облажался: ИИ-агент заказал 72 яйца без причины (Мэтт Смит, Rebellionaire) — https://futurism.com/artificial-intelligence/ai-agent-cant-explain-egg-order
+- 2026-11-17 20:58 А что если: веб с фейс-контролем для ИИ-агентов (United блокирует агентов, OpenAI Business Agents) — https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/
+- 2026-11-18 09:00 Дайджест: GPT-6.2 Astra и Sol, Gemini хранит чаты 2 месяца, доли Amazon/Google в Anthropic после IPO — https://openai.com/index/introducing-gpt-6-2-astra-sol
+- 2026-11-18 11:00 Мнение: Vals — модели выбирают гражданских целями, «это игра» снимает отказы (GPT-6 Astra 6%→92%) — https://www.vals.ai/blogs/autonomous-warfare
+- 2026-11-18 13:03 Промпт дня: заметки со встречи → решения, задачи, открытые вопросы, риски, письмо (без выдумывания) — без внешнего источника
+- 2026-11-18 15:00 Нейробитва: MAI Code 2 vs GPT-6.1 Sol vs Claude Opus 5.5 (+Flash vs Luna/Haiku), данные Microsoft — https://www.infoworld.com/article/4250152/microsoft-launches-mai-code-2-models-to-challenge-openai-and-anthropic-in-ai-coding.html
+- 2026-11-18 16:54 Эксперимент: спросить ИИ «что ты обо мне знаешь» и почистить память (ChatGPT Память, временный чат) — без внешнего источника
+- 2026-11-18 19:00 ИИ облажался: агент Meta Muse выдал сотруднику чужие банковские балансы и лез в Signal (Reuters) — https://www.theverge.com/ai-artificial-intelligence/1036541/in-employee-testing-metas-muse-agents-mixed-up-messages-and-pulled-in-unexpected-chats-from-other-apps
+- 2026-11-18 20:58 А что если: робот станет новым Arduino (Gemini 4 Hydrogen + плагин Robotics для Antigravity, «робот за вечер») — https://developers.googleblog.com/gemini-hydrogen-for-robotics/
+- 2026-11-19 09:00 Дайджест: IPO Anthropic по $83 (ANT), Gemini 4 Neon, «инкогнито» в AI Mode, Snapchat Lens через Claude Code/Cursor — https://www.anthropic.com/news/anthropic-prices-initial-public-offering
+- 2026-11-19 11:00 Мнение: план Ньюсома — госстандарты безопасности ИИ, аварийное отключение моделей, лимит на рекурсивное самоулучшение — https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739
+- 2026-11-19 13:00 Промпт дня: разбор договора/оферты на подводные камни (автопродление, штрафы, данные) с цитатами и оценкой риска — без внешнего источника
+- 2026-11-19 14:57 Шпаргалка: как отключить обучение ИИ на своих чатах (ChatGPT, Claude, Gemini, Grok, LinkedIn) — https://www.eff.org/pages/i-want-opt-out-ai-tools-or-training-made-big-tech
+- 2026-11-19 17:00 Эксперимент: «сначала задай мне 5 уточняющих вопросов» — ИИ допрашивает перед ответом — без внешнего источника
+- 2026-11-19 19:00 ИИ облажался: ИИ-мурал McDonald's в Блэкберне — собор Ливерпуля, Royal Albert Hall, «crampions» (BBC) — https://www.bbc.com/news/articles/cqp86e116ek3o
+- 2026-11-19 20:59 А что если: агентские доверенности и страховки для ИИ-агентов (Citi, JPMorgan, BofA, PNC перекладывают ответственность за агентов на клиента) — https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+- 2026-11-20 09:00 Дайджест: Gemini computer use на Mac, OpenAI проектирует чипы (Jalapeño −15%), Nvidia остановила Hopper для Китая, GAO обошла защиту чат-ботов — https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/
