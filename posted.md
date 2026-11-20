@@ -21,3 +21,4 @@
 - 2026-11-19 19:00 ИИ облажался: ИИ-мурал McDonald's в Блэкберне — собор Ливерпуля, Royal Albert Hall, «crampions» (BBC) — https://www.bbc.com/news/articles/cqp86e116ek3o
 - 2026-11-19 20:59 А что если: агентские доверенности и страховки для ИИ-агентов (Citi, JPMorgan, BofA, PNC перекладывают ответственность за агентов на клиента) — https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
 - 2026-11-20 09:00 Дайджест: Gemini computer use на Mac, OpenAI проектирует чипы (Jalapeño −15%), Nvidia остановила Hopper для Китая, GAO обошла защиту чат-ботов — https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/
+- 2026-11-20 11:03 Мнение: Claude Fable 5.2 закрыл две открытые задачи о чёрных дырах — 22 агента, 6 недель, наука становится масштабируемой — https://www.anthropic.com/research/claude-black-hole-physics
