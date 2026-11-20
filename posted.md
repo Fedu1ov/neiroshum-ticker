@@ -23,3 +23,4 @@
 - 2026-11-20 09:00 Дайджест: Gemini computer use на Mac, OpenAI проектирует чипы (Jalapeño −15%), Nvidia остановила Hopper для Китая, GAO обошла защиту чат-ботов — https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/
 - 2026-11-20 11:03 Мнение: Claude Fable 5.2 закрыл две открытые задачи о чёрных дырах — 22 агента, 6 недель, наука становится масштабируемой — https://www.anthropic.com/research/claude-black-hole-physics
 - 2026-11-20 12:55 Промпт дня: репетиция сложного разговора с ИИ (повышение, отказ клиенту, фидбек) — спарринг и разбор ошибок — без внешнего источника
+- 2026-11-20 14:58 Нейробитва: Gemini 4 Neon vs Claude Opus 5.5 и Sonnet 5.5 в долгих сессиях кодинга (Bito) — https://bito.ai/blog/gemini-4-neon-vs-claude-opus-sonnet-haiku/
