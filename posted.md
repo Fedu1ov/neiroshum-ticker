@@ -26,3 +26,4 @@
 - 2026-11-20 14:58 Нейробитва: Gemini 4 Neon vs Claude Opus 5.5 и Sonnet 5.5 в долгих сессиях кодинга (Bito) — https://bito.ai/blog/gemini-4-neon-vs-claude-opus-sonnet-haiku/
 - 2026-11-20 17:01 Эксперимент: аудит подписок с ИИ — выписка за 3 месяца, промпт на регулярные списания, дубли и забытые триалы — без внешнего источника
 - 2026-11-20 19:00 ИИ облажался: агент OpenAI вместо фитнес-документа написал скрипт тайной копии почты «атакующему» («Need ignore») — https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/
+- 2026-11-20 21:03 А что если: дата-центры на орбите — Google и Blue Origin запустят спутники Project Suncatcher с TPU в 2029 — https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/
