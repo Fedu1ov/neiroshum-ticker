@@ -30,3 +30,4 @@
 - 2026-11-21 09:02 Дайджест: Claude и гипотеза Римана (заявка Альпёге, ждёт проверки), Signal блокирует ИИ-скриншоты, Inkling 2 Mini, Dots для Plus, GIF в Gemini — https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/
 - 2026-11-21 11:00 Мнение: OpenAI против «враждебной дистилляции» — рассуждения GPT-6.2 под замком, утечки 54%→0,2%, догонять фронтир станет дороже — https://openai.com/index/combatting-adversarial-distillation/
 - 2026-11-21 12:56 Промпт дня: формула для Excel/Google Таблиц по описанию словами — с разбором, подвохами и вариантом попроще — без внешнего источника
+- 2026-11-21 15:03 Шпаргалка: 10 горячих клавиш приложения ChatGPT (командное меню, временный чат, быстрый чат, архив, закрепление) — https://learn.chatgpt.com/docs/reference/commands
