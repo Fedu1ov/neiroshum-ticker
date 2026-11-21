@@ -29,3 +29,4 @@
 - 2026-11-20 21:03 А что если: дата-центры на орбите — Google и Blue Origin запустят спутники Project Suncatcher с TPU в 2029 — https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/
 - 2026-11-21 09:02 Дайджест: Claude и гипотеза Римана (заявка Альпёге, ждёт проверки), Signal блокирует ИИ-скриншоты, Inkling 2 Mini, Dots для Plus, GIF в Gemini — https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/
 - 2026-11-21 11:00 Мнение: OpenAI против «враждебной дистилляции» — рассуждения GPT-6.2 под замком, утечки 54%→0,2%, догонять фронтир станет дороже — https://openai.com/index/combatting-adversarial-distillation/
+- 2026-11-21 12:56 Промпт дня: формула для Excel/Google Таблиц по описанию словами — с разбором, подвохами и вариантом попроще — без внешнего источника
