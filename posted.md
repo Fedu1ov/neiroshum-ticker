@@ -39,3 +39,4 @@
 - 2026-11-22 13:02 Промпт дня: ИИ-репетитор, который экзаменует — объяснение, вопросы по одному, разбор ошибок и план на 15 минут — без внешнего источника
 - 2026-11-22 15:04 Нейробитва: Claude Fable 5.2 vs GPT-6.2 Astra на реальной работе (Epoch AI) — 82% против 65%, Astra подвела перестраховка — https://epoch.ai/publications/how-good-are-fable-5-2-and-gpt-6-2-astra-at-real-work
 - 2026-11-22 16:58 Эксперимент: фото холодильника → меню на 2 дня из того, что есть, — ИИ сначала уточняет и спасает продукты, которые скоро испортятся — без внешнего источника
+- 2026-11-22 18:58 ИИ облажался: Claude вместо нумерации страниц удалил профессору права силлабус и год лекций (вернули из Dropbox) — https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits
