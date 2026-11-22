@@ -35,3 +35,4 @@
 - 2026-11-21 18:56 ИИ облажался: автогенерация рекламы TikTok «перерисовала» Dr. STONE для пиццерии PIZZA-LA без согласия правообладателей — https://www.techtimes.co.uk/pizza-la-unapproved-ai-tiktok-ad-dr-stone-1809820
 - 2026-11-21 20:59 А что если: пузырь ИИ сдувается — Nasdaq −10% за неделю, Anthropic у цены IPO; выживут не обёртки, а полезные продукты — https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia
 - 2026-11-22 09:00 Дайджест: доказательство гипотезы Римана с Claude подтвердили Lean FRO и Mathlib, ИИ-агенты Cairn нашли zero-day за 11 минут, computer use в Claude Team/Enterprise, ChatGPT Space для Plus — https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai
+- 2026-11-22 11:00 Мнение: Dragos поймал утечки промптов у ИИ-провайдеров — 2 млн ловушек, 3 взломанных хостинга, OpenRouter снял ZDR со 125 эндпоинтов — https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens
