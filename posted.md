@@ -37,3 +37,4 @@
 - 2026-11-22 09:00 Дайджест: доказательство гипотезы Римана с Claude подтвердили Lean FRO и Mathlib, ИИ-агенты Cairn нашли zero-day за 11 минут, computer use в Claude Team/Enterprise, ChatGPT Space для Plus — https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai
 - 2026-11-22 11:00 Мнение: Dragos поймал утечки промптов у ИИ-провайдеров — 2 млн ловушек, 3 взломанных хостинга, OpenRouter снял ZDR со 125 эндпоинтов — https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens
 - 2026-11-22 13:02 Промпт дня: ИИ-репетитор, который экзаменует — объяснение, вопросы по одному, разбор ошибок и план на 15 минут — без внешнего источника
+- 2026-11-22 15:04 Нейробитва: Claude Fable 5.2 vs GPT-6.2 Astra на реальной работе (Epoch AI) — 82% против 65%, Astra подвела перестраховка — https://epoch.ai/publications/how-good-are-fable-5-2-and-gpt-6-2-astra-at-real-work
