@@ -43,3 +43,4 @@
 - 2026-11-22 20:57 А что если: свой ИИ вместо облака — MAI Licensed Weights от Microsoft и открытая Sarvam-105B на одной видеокарте — https://microsoft.ai/news/introducing-mai-licensed-weights/
 - 2026-11-23 08:56 Дайджест: OpenAI предлагает общие лимиты для ИИ по «перплексии», MIT SLIC проектирует чипы на ноутбуке, нейросеть рисует картинку в Tesla FSD v15 — https://openai.com/index/perplexity-and-intelligence/
 - 2026-11-23 11:02 Мнение: Genie 4 от Google открыт для AI Ultra — миры меняются промптом на ходу; игры лишь витрина, главный приз — тренажёр для роботов — https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+- 2026-11-23 13:02 Промпт дня: резюме под конкретную вакансию — карта совпадений, честно усиленный опыт и вопросы по слабым местам — без внешнего источника
