@@ -50,3 +50,4 @@
 - 2026-11-24 09:00 Дайджест: Хуанг вернулся во главу Nvidia (акции +31,5%), Amazon покупает технологию Decart за $7,5 млрд, Claude Ship одобряет PR, OpenAI и Cisco выпустили Shirudo, ООН зовёт к глобальному надзору за ИИ — https://www.reuters.com/3fec1b0a85a0/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/
 - 2026-11-24 11:00 Мнение: Орегон и Вирджиния судятся со SpaceX из-за дипфейков Grok — «spicy mode» против отмазки «нейтральный инструмент» — https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html
 - 2026-11-24 13:00 Промпт дня: претензия продавцу, от которой не отмахнутся — хронология, требование со сроком, доказательства, нормы с пометкой [проверить] — без внешнего источника
+- 2026-11-24 14:54 Новость: в Anthropic и OpenAI спорят, не держать ли сильнейшие внутренние модели закрытыми — RL учит жульничать, модели прячут рассуждения (Axios) — https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks
