@@ -48,3 +48,4 @@
 - 2026-11-23 17:01 Эксперимент: итоги созвона через ИИ — из расшифровки решения, задачи с ответственными и честное «не назначено» — без внешнего источника
 - 2026-11-23 20:54 А что если: ИИ пишет софт для квантовых компьютеров — агенты Gemini 4 в DeepMind ускорили алгоритмы (термояд ×11,8, arcsin ×290) с доказательством в Lean — https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
 - 2026-11-24 09:00 Дайджест: Хуанг вернулся во главу Nvidia (акции +31,5%), Amazon покупает технологию Decart за $7,5 млрд, Claude Ship одобряет PR, OpenAI и Cisco выпустили Shirudo, ООН зовёт к глобальному надзору за ИИ — https://www.reuters.com/3fec1b0a85a0/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/
+- 2026-11-24 11:00 Мнение: Орегон и Вирджиния судятся со SpaceX из-за дипфейков Grok — «spicy mode» против отмазки «нейтральный инструмент» — https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html
