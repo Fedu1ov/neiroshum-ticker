@@ -67,3 +67,4 @@
 - 2026-11-26 15:03 Нейробитва: GPT-6.2 Sol vs Claude Fable 5.2 в охоте на баги (Shipping Skool) — Sol починила 16 из 16 за $0,89, Fable 15 из 16 за $12,04 — https://www.shippingskool.com/blog/gpt-6-2-astra-vs-sol-coding-tests
 - 2026-11-26 17:02 Эксперимент: фото доски или блокнота → структурированный документ — ИИ ставит [неразборчиво] вместо догадок и задаёт вопросы по неясным местам — без внешнего источника
 - 2026-11-26 19:03 ИИ облажался: Vistaprint испортила коробки писательницы RL Caulder на $1400 — утверждённый дизайн превратился в кашу, клиенты винят ИИ-доработку макетов — https://www.printweek.com/content/news/vistaprint-customers-blame-ai-for-print-errors
+- 2026-11-26 21:02 А что если: чаты с ИИ уходят с молотка — Character.AI на банкротном аукционе продаёт переписки 21+ млн аккаунтов, 42 генпрокурора против — https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats
