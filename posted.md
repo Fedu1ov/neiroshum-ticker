@@ -71,3 +71,4 @@
 - 2026-11-27 09:02 Дайджест: Claude перевёл Messages API Anthropic на Rust (−70% CPU), GLM-5.5 от Z.AI буксует из-за ограничений США и защиты от дистилляции, OpenAI починила счётчик лимитов GPT-6.2, Tencent открыла DFly2 — https://www.anthropic.com/research/migrating-api-to-rust
 - 2026-11-27 10:56 Мнение: Ааронсон уверен, что ИИ-лаборатории сидят на «бомбах» в криптографии (слухи о быстром взломе RSA, разбор Nature) — пора на постквантовую защиту и ответственное раскрытие — https://www.nature.com/articles/d41586-026-03875-6
 - 2026-11-27 13:02 Промпт дня: ИИ-сисадмин для компа и Wi-Fi — уточняющие вопросы, 3 вероятные причины и шаги от безопасных к рискованным с бэкапом — без внешнего источника
+- 2026-11-27 14:58 Шпаргалка: 7 бесплатных замен Midjourney — Gemini, ChatGPT, Ideogram, Leonardo, Firefly, Perchance, Draw Things и Krita локально — https://auraaitools.com/best-free-ai-image-generators-2026/
